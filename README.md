@@ -13,7 +13,7 @@ This is repository is a place where I am experimenting with command line fundame
 
 ```print "hello world"```
 
-![Image of Spring](https://github.com/jrmarvin/practice_repo/blob/master/Samuel_Pepys.JPG)
+![Image of Spring](https://github.com/jrmarvin/practice_repo/blob/master/Samuel_Pepys.jpg)
 
 
 
